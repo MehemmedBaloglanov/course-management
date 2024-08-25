@@ -1,3 +1,5 @@
 rootProject.name = 'course-management'
-include 'user-management'
+include 'user-management-ms'
+include 'courses-ms'
+include 'common'
 
